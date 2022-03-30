@@ -1,0 +1,87 @@
+Oct 30, 2021 1:24:27 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Players:	humanInter	vs	humanInter
+Oct 30, 2021 1:24:27 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Repeated moves allowed:	0	Cache:	-1
+Oct 30, 2021 1:24:27 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Inizio partita
+Oct 30, 2021 1:24:27 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Stato:
+OOOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+Oct 30, 2021 1:25:21 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to c9
+Oct 30, 2021 1:25:21 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+Oct 30, 2021 1:25:21 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+Oct 30, 2021 1:25:21 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOWBBBOOO
+-
+B
+Oct 30, 2021 1:25:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b5 to b1
+Oct 30, 2021 1:25:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+Oct 30, 2021 1:25:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 2
+Oct 30, 2021 1:25:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OBOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOWBBBOOO
+-
+W
+Oct 30, 2021 1:26:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to a5
+Oct 30, 2021 1:26:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+Oct 30, 2021 1:26:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut endGame
+BUONO: Stato:
+OBOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOWBBBOOO
+-
+BW
+Oct 30, 2021 1:26:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut endGame
+BUONO: Stato:
+OBOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOWBBBOOO
+-
+BW
